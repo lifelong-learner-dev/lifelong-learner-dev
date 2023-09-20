@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=what's%20up&fontSize=90)
 
-## Each code changs the app, the app changes the world ✈🚆
+## Each code changes the app, the app changes the world ✈🚆
 
 
 ## 💪 Skills
